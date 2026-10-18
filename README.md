@@ -31,26 +31,7 @@ The simulation provided practical exposure to data analytics tasks, including an
 - Completed the remaining assigned activities in the simulation.
 - Applied analytical and problem-solving skills to the provided business scenario.
 
-*Note: Update the task descriptions above to reflect your exact deliverables.*
 
-## 📂 Repository Structure
-
-```text
-deloitte-data-analytics-project/
-│
-├── Task-1/
-│   └── Tableau-Workbook.twbx
-│
-├── Task-2/
-│   └── Task-2-Deliverables/
-│
-├── Screenshots/
-│   └── dashboard.png
-│
-└── README.md
-```
-
-*The folder structure is illustrative. Replace the filenames with the actual files you upload.*
 
 ## 💡 Skills Developed
 - Data analysis and interpretation
